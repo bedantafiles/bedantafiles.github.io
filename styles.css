@@ -1,0 +1,42 @@
+body {
+    background-color: #1a1d2c;
+    font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #89b4fa;
+    line-height: 2;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #89b4fa;
+}
+
+footer {
+    text-align: center;
+    color: #9ca3af;
+    padding: 24px;
+    font-size: 12px;
+    margin-top: 20px;
+}
